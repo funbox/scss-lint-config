@@ -1,0 +1,10 @@
+{
+  "name": "scss-lint-config",
+  "version": "1.0.0",
+  "description": "Config for SCSS linting using Stylelint",
+  "main": "index.js",
+  "dependencies": {
+    "stylelint-order": "^0.6.0",
+    "stylelint-scss": "^2.1.0"
+  }
+}
