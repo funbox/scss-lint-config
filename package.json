@@ -8,7 +8,7 @@
     "url": "ssh://git@git.funbox.ru/~i.adamenko/scss-lint-config.git"
   },
   "dependencies": {
-    "stylelint-order": "^0.6.0",
+    "stylelint-order": "^0.7.0",
     "stylelint-scss": "^2.1.0"
   }
 }
