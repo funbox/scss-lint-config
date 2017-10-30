@@ -1,3 +1,3 @@
-# scss-lint-config
+# funbox-scss-lint-config
 
 Пакет содержит правила для линтера Stylelint, соответствующие принятому в компании стайлгайду для SCSS-файлов.
