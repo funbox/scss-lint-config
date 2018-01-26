@@ -9,7 +9,9 @@
     "at-rule-no-vendor-prefix": true,
     "at-rule-semicolon-newline-after": "always",
     "at-rule-semicolon-space-before": "never",
-    "block-closing-brace-newline-after": "always",
+    "block-closing-brace-newline-after": ["always", {
+      "ignoreAtRules": ["if", "else"]
+    }],
     "block-no-empty": true,
     "block-opening-brace-newline-after": "always",
     "block-opening-brace-space-after": "always-single-line",
@@ -413,7 +415,8 @@
     "scss/operator-no-unspaced": true,
     "scss/selector-no-redundant-nesting-selector": true,
     "at-rule-empty-line-before": ["always", {
-      "except": ["first-nested"]
+      "except": ["first-nested"],
+      "ignoreAtRules": ["if", "else"]
     }],
     "block-closing-brace-empty-line-before": "never",
     "declaration-empty-line-before": ["always", {
