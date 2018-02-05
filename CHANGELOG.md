@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2 (05.02.2018)
+
+* Fixed config export.
+
 ## 1.0.1 (26.01.2018)
 
 * Fixed conflicts of rules for if-else checks.
