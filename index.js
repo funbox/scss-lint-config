@@ -1,1 +1,1 @@
-module.exports = require('./.stylelintrc');
+module.exports = require('./.stylelintrc.json');
