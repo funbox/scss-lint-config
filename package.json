@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "stylelint-order": "^0.7.0",
-    "stylelint-scss": "^2.1.0"
+    "stylelint-scss": "^2.1.0",
+    "@funbox/stylelint-rules": "1.0.0"
   }
 }
