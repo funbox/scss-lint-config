@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.0.0 (06.07.2017)
+
+* Moved the package into @funboxteam scope.
+
 ## 1.0.2 (05.02.2018)
 
 * Fixed config export.
