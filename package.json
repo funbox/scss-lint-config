@@ -1,5 +1,5 @@
 {
-  "name": "funbox-scss-lint-config",
+  "name": "@funboxteam/scss-lint-config",
   "version": "1.0.2",
   "description": "Config for Stylelint SCSS linting",
   "main": "index.js",
