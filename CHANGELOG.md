@@ -1,5 +1,10 @@
 # История изменений проекта
 
+## 2.1.0 (26.09.2017)
+
+* Подключение Stylelint-плагина [https://stash.funbox.ru/projects/FCS/repos/stylelint-rules/browse](stylelint-rules).
+* Включение кастомных правил `declarations-before-nesting`и `no-transition-all`.
+
 ## 2.0.0 (06.07.2017)
 
 * Добавление служебных файлов пакета.
