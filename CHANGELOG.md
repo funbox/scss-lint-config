@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.0 (26.09.2017)
+
+* Enabled `declarations-before-nesting` & `no-transition-all` from [@funboxteam/stylelint-rules](https://github.com/funbox/stylelint-rules).
+
 ## 2.0.0 (06.07.2017)
 
 * Moved the package into @funboxteam scope.
