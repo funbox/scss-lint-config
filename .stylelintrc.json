@@ -357,6 +357,7 @@
       "animation-delay",
       "animation-iteration-count",
       "animation-direction",
+      "animation-fill-mode",
 
       "unicode-bidi",
       "direction",
@@ -384,6 +385,7 @@
       "user-zoom",
       "orientation",
 
+      "-moz-appearance",
       "-webkit-appearance",
       "-webkit-overflow-scrolling"
     ],
