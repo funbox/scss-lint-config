@@ -1,5 +1,9 @@
 # История изменений проекта
 
+## 2.2.0 (07.12.2018)
+
+* Добавление свойств `animation-fill-mode` и `-moz-appearance` в конфиг сортировки.
+
 ## 2.1.0 (26.09.2017)
 
 * Подключение Stylelint-плагина [https://stash.funbox.ru/projects/FCS/repos/stylelint-rules/browse](stylelint-rules).
