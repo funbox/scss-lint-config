@@ -385,6 +385,7 @@
       "user-zoom",
       "orientation",
 
+      "-moz-appearance",
       "-webkit-appearance",
       "-webkit-overflow-scrolling"
     ],
