@@ -1,6 +1,6 @@
 {
   "name": "@funbox/scss-lint-config",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Config for Stylelint SCSS linting",
   "main": "index.js",
   "repository": {
@@ -8,8 +8,8 @@
     "url": "ssh://git@git.funbox.ru/fcs/scss-lint-config.git"
   },
   "dependencies": {
+    "@funbox/stylelint-rules": "^1.1.0",
     "stylelint-order": "^0.7.0",
-    "stylelint-scss": "^2.1.0",
-    "@funbox/stylelint-rules": "1.0.0"
+    "stylelint-scss": "^2.1.0"
   }
 }
