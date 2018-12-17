@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3.0 (17.12.2018)
+
+* Updated  `@funboxteam/stylelint-rules`.
+
 ## 2.2.0 (07.12.2018)
 
 * Added `animation-fill-mode` & `-moz-appearance` props to the sorting config.
