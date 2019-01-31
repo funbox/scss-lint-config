@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.3.1 (31.01.2019)
+
+* Fixed Stylelint args in the README example.
+
 ## 2.3.0 (17.12.2018)
 
 * Updated  `@funboxteam/stylelint-rules`.
