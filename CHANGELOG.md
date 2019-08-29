@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.4.0 (29.08.2019)
+
+* Disabled `scss/dollar-variable-pattern`.
+
 ## 2.3.1 (31.01.2019)
 
 * Fixed Stylelint args in the README example.
