@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.5.0 (29.08.2019)
+
+* Disabled `scss/at-function-pattern`, `scss/at-mixin-pattern`, `scss/percent-placeholder-pattern`.
+
 ## 2.4.0 (29.08.2019)
 
 * Disabled `scss/dollar-variable-pattern`.
