@@ -421,7 +421,7 @@
     "funbox-stylelint-rules/no-transition-all": true,
     "at-rule-empty-line-before": ["always", {
       "except": ["first-nested"],
-      "ignoreAtRules": ["if", "else"]
+      "ignoreAtRules": ["if", "else", "import"]
     }],
     "block-closing-brace-empty-line-before": "never",
     "declaration-empty-line-before": ["always", {
