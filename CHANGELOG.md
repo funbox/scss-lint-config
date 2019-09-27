@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.6.0 (27.09.2019)
+
+* Added `import` to ignore in `at-rule-empty-line-before`.
+
 ## 2.5.0 (29.08.2019)
 
 * Disabled `scss/at-function-pattern`, `scss/at-mixin-pattern`, `scss/percent-placeholder-pattern`.
