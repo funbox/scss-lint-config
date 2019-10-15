@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.7.0 (15.10.2019)
+ 
+* Fixed deps.
+
 ## 2.6.0 (27.09.2019)
 
 * Added `import` to ignore in `at-rule-empty-line-before`.
