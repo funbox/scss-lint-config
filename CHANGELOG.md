@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.8.0 (19.03.2020)
+
+* Added grid props to the sorting config.
+
 ## 2.7.0 (15.10.2019)
  
 * Fixed deps.
