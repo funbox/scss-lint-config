@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.8.1 (27.05.2020)
+
+* Fixed typo in `grid-template-columns` prop name.
+
 ## 2.8.0 (19.03.2020)
 
 * Added grid props to the sorting config.
