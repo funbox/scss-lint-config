@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.8.2 (26.10.2020)
+
+* Added LICENSE.
+* Prepared the package for publishing on GitHub.
+
 ## 2.8.1 (27.05.2020)
 
 * Fixed typo in `grid-template-columns` prop name.
