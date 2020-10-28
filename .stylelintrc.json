@@ -41,7 +41,7 @@
     "font-family-name-quotes": "always-where-recommended",
     "font-family-no-duplicate-names": true,
     "font-weight-notation": "numeric",
-    "function-blacklist": "rgb",
+    "function-disallowed-list": "rgb",
     "function-calc-no-unspaced-operator": true,
     "function-comma-space-after": "always",
     "function-comma-space-before": "never",
