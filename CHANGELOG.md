@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.0 (30.10.2020)
+
+* Breaking change: Dropped support of `stylelint` lower than 13.7.0.
+* Added `stylelint` to `peerDependencies`.
+* Updated dependencies.
+
 ## 2.8.1 (27.05.2020)
 
 * Fixed typo in `grid-template-columns` prop name.
