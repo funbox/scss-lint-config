@@ -24,5 +24,8 @@
     "@funboxteam/stylelint-rules": "^2.0.0",
     "stylelint-order": "^0.7.0",
     "stylelint-scss": "^2.1.0"
+  },
+  "peerDependencies": {
+    "stylelint": ">= 13.7.0"
   }
 }
