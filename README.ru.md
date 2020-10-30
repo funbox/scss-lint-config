@@ -6,6 +6,15 @@
 
 ## Установка
 
+Сперва необходимо установить версию Stylelint, удовлетворяющую требованиям, 
+описанным в [peerDependencies](./package.json):
+
+```bash
+npm install --save-dev stylelint
+```
+
+Затем можно устанавливать сам конфиг:
+
 ```bash
 npm install --save-dev @funboxteam/scss-lint-config
 ```
