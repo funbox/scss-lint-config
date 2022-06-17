@@ -24,7 +24,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "@funboxteam/stylelint-rules": "^2.0.0",
+    "@funboxteam/stylelint-rules": "^2.2.0",
     "stylelint-order": "^4.1.0",
     "stylelint-scss": "^3.18.0"
   },
