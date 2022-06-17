@@ -90,7 +90,7 @@
     "selector-list-comma-space-after": "always-single-line",
     "selector-list-comma-space-before": "never",
     "selector-max-id": 0,
-    "selector-max-type": 0,
+    "selector-max-type": null,
     "selector-max-universal": 0,
     "selector-no-qualifying-type": true,
     "selector-no-vendor-prefix": true,
@@ -440,6 +440,7 @@
     "scss/selector-no-redundant-nesting-selector": true,
     "funbox-stylelint-rules/declarations-before-nesting": true,
     "funbox-stylelint-rules/no-transition-all": true,
+    "funbox-stylelint-rules/selector-max-type": 0,
     "at-rule-empty-line-before": ["always", {
       "except": ["first-nested"],
       "ignoreAtRules": ["if", "else", "import"]
