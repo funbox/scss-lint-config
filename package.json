@@ -1,6 +1,6 @@
 {
   "name": "@funboxteam/scss-lint-config",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Config for Stylelint SCSS linting",
   "keywords": [
     "stylelint",
@@ -24,7 +24,7 @@
   },
   "main": "index.js",
   "dependencies": {
-    "@funboxteam/stylelint-rules": "^2.0.0",
+    "@funboxteam/stylelint-rules": "^2.2.0",
     "stylelint-order": "^4.1.0",
     "stylelint-scss": "^3.18.0"
   },

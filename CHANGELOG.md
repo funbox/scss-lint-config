@@ -1,5 +1,9 @@
 # Changelog
 
+## 4.0.0 (20.06.2022)
+
+* Breaking change: `selector-max-type` rule replaced with `funbox-stylelint-rules/selector-max-type`.
+
 ## 3.0.0 (30.10.2020)
 
 * Breaking change: Dropped support of `stylelint` lower than 13.7.0.
