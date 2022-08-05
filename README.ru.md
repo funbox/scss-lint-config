@@ -13,7 +13,7 @@
 npm install --save-dev stylelint
 ```
 
-При использовании Stylelint v14 и выше необходимо также установить Postcss-scss:
+При использовании Stylelint v14 и выше необходимо также установить postcss-scss:
 
 ```bash
 npm install --save-dev postcss-scss

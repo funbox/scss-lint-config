@@ -15,7 +15,7 @@ the [peerDependencies requirements](./package.json):
 npm install --save-dev stylelint
 ```
 
-If using Stylelint v14 or higher, also install Postcss-scss:
+If using Stylelint v14 or higher, also install postcss-scss:
 
 ```bash
 npm install --save-dev postcss-scss
