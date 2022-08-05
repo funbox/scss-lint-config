@@ -1,5 +1,11 @@
 # Changelog
 
+## 4.1.0 (05.08.2022)
+
+Added `postcss-scss` to `peerDependencies` and added `customSyntax` field into the config,
+to make everything work with Stylelint v14.
+
+
 ## 4.0.0 (20.06.2022)
 
 * Breaking change: `selector-max-type` rule replaced with `funbox-stylelint-rules/selector-max-type`.

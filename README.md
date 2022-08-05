@@ -15,6 +15,12 @@ the [peerDependencies requirements](./package.json):
 npm install --save-dev stylelint
 ```
 
+If using Stylelint v14 or higher, also install postcss-scss:
+
+```bash
+npm install --save-dev postcss-scss
+```
+
 Then install the config:
 
 ```bash
@@ -26,8 +32,10 @@ npm install --save-dev @funboxteam/scss-lint-config
 Include into a project config and pass desired [options](https://stylelint.io/user-guide/cli/):
 
 ```bash
-stylelint "src/**/*.scss" --syntax scss --cache --config node_modules/@funboxteam/scss-lint-config/.stylelintrc`
+stylelint "src/**/*.scss" --cache --config node_modules/@funboxteam/scss-lint-config/.stylelintrc
 ```
+
+For Stylelint v13 `--syntax scss` option is required.
 
 Also you can create your own config based on this one:
 
