@@ -20,7 +20,7 @@
   "author": "FunBox LLC <wanted@fun-box.ru> (https://funbox.ru)",
   "license": "MIT",
   "scripts": {
-    "prepublishOnly": "lawyer"
+    "prepublishOnly": "if [ -z \"$CI\" ]; then lawyer; fi"
   },
   "main": "index.js",
   "dependencies": {
