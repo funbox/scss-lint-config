@@ -25,11 +25,11 @@
   "main": "index.js",
   "dependencies": {
     "@funboxteam/stylelint-rules": "^2.2.0",
-    "stylelint-order": "^4.1.0",
-    "stylelint-scss": "^3.18.0"
+    "stylelint-order": "^6.0.3",
+    "stylelint-scss": "^5.0.1"
   },
   "peerDependencies": {
-    "stylelint": ">= 13.7.0",
+    "stylelint": ">= 14.0.0",
     "postcss-scss": ">= 4.0.4"
   }
 }
