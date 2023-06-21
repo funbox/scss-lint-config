@@ -1,5 +1,16 @@
 # Changelog
 
+## 5.0.0 (21.06.2023)
+
+Updated dependencies, that led to dropping support for Stylelint 13.
+
+Please use Stylelint 14 and higher.
+
+There were no changes on the config itself, but here is the Stylelint 
+[migration guide](https://stylelint.io/migration-guide/to-14) 
+in case you need it.
+
+
 ## 4.1.0 (05.08.2022)
 
 Added `postcss-scss` to `peerDependencies` and added `customSyntax` field into the config,
