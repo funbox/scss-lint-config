@@ -3,6 +3,7 @@
   "plugins": [
     "stylelint-order",
     "stylelint-scss",
+    "stylelint-stylistic",
     "@funboxteam/stylelint-rules"
   ],
   "rules": {
