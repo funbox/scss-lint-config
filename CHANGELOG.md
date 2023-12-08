@@ -1,5 +1,13 @@
 # Changelog
 
+## 6.0.0 (08.12.2023)
+
+Migration to Stylelint 15
+
+There were no changes on the config itself, but here is the Stylelint
+[migration guide](https://stylelint.io/migration-guide/to-15)
+in case you need it.
+
 ## 5.0.0 (21.06.2023)
 
 Updated dependencies, that led to dropping support for Stylelint 13.
