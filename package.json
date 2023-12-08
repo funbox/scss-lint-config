@@ -24,12 +24,13 @@
   },
   "main": "index.js",
   "dependencies": {
-    "@funboxteam/stylelint-rules": "^2.2.0",
+    "@funboxteam/stylelint-rules": "^3.0.0",
     "stylelint-order": "^6.0.3",
-    "stylelint-scss": "^5.0.1"
+    "stylelint-scss": "^5.0.1",
+    "stylelint-stylistic": "^0.4.3"
   },
   "peerDependencies": {
-    "stylelint": ">= 14.0.0",
-    "postcss-scss": ">= 4.0.4"
+    "postcss-scss": ">= 4.0.7",
+    "stylelint": ">= 15.10.3"
   }
 }
