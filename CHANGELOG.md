@@ -1,5 +1,8 @@
 # Changelog
 
+## 6.1.0 (09.01.2024)
+Added `stylelint-codeguide` instead `stylelint-stylistic` for Stylelint v16 supporting
+
 ## 6.0.0 (08.12.2023)
 
 Migration to Stylelint 15
